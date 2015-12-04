@@ -1,0 +1,6 @@
+<Alloy>
+	<NavigationWindow id="root" platform="ios">
+		<Require type="view" src="window1" />
+	</NavigationWindow>
+	<Require type="view" src="window1" id="root" platform="android" />
+</Alloy>
